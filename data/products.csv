@@ -1,0 +1,6 @@
+ProductID,Name,Category,Price,Stock
+1,Phone,Electronics,500,50
+2,Laptop,Electronics,1200,30
+3,Shirt,Clothing,20,100
+4,Shoes,Footwear,50,70
+5,Book,Stationery,15,200
